@@ -113,8 +113,7 @@ Once processed, the data is transmitted to other devices or cloud-based platform
     <img src="image3.jpg" alt="Image 3">
     <img src="image4.jpg" alt="Image 4">
 <li>Contact</li>
-<p> <li>mothukurimahesh111@gmail.com</li>
-       <li>venkateshvarulu@gmail.com</li>
+<p> <li>sasikiransomasi@gmail.com</li>
        </p>
        </ul>
         </section>
